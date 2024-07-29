@@ -1,5 +1,5 @@
 -- koreader version 2024.07 2023.08 tested
--- tlnr : DictQuickLookup width=width/2 definition_height=definition_height/2
+-- tldr : DictQuickLookup width=width/2 definition_height=definition_height/2
     -- search "-- HOOK" to find modified lines
 -- hook init function copy from DictQuickLookup.init() [koreader/frontend/ui/widget/dictquicklookup.lua]  
     -- 2c9bb33 https://github.com/koreader/koreader/blob/master/frontend/ui/widget/dictquicklookup.lua
